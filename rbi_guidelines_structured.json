@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "financial_introduction_0",
+    "title": "Introduction",
+    "content": "Banks in the process of financial intermediation are confronted with various kinds of financial and non-financial risks viz., credit, interest rate, foreign exchange rate, liquidity, equity price, commodity price, legal, regulatory, reputational, operational, etc. These risks are highly interdependent and events that affect one area of risk can have ramifications for a range of other risk categories. Thus, top management of banks should attach considerable importance to improve the ability to identify, measure, monitor and control the overall level of risks undertaken. The broad parameters of risk management function should encompass: i) organisational structure; ii) comprehensive risk measurement approach; iii) risk management policies approved by the Board which should be consistent with the broader business strategies, capital strength, management expertise and overall willingness to assume risk; iv) guidelines and other parameters used to govern risk taking including detailed struc",
+    "document_type": "financial",
+    "section_number": 1,
+    "total_sections": 2,
+    "word_count": 139,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Introduction",
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "financial_introduction_1",
+    "title": "Introduction",
+    "content": " the broader business strategies, capital strength, management expertise and overall willingness to assume risk; iv) guidelines and other parameters used to govern risk taking including detailed structure of prudential limits; v) strong MIS for reporting, monitoring and controlling risks; vi) well laid out procedures, effective control and comprehensive risk reporting framework; vii) separate risk management framework independent of operational Departments and with clear delineation of levels of responsibility for management of risk; and viii) periodical review and evaluation. 2.",
+    "document_type": "financial",
+    "section_number": 2,
+    "total_sections": 2,
+    "word_count": 79,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Introduction",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "financial_risk_management_structure_0",
+    "title": "Risk Management Structure",
+    "content": "2.1 A major issue in establishing an appropriate risk management organisation structure is choosing between a centralised and decentralised structure. The global trend is towards centralising risk management with integrated treasury management function to benefit from information on aggregate exposure, natural netting of exposures, economies of scale and easier reporting to top management. The primary responsibility of understanding the risks run by the bank and ensuring that the risks are appropriately managed should clearly be vested with the Board of Directors. The Board should set risk limits by assessing the bank s risk and riskbearing capacity. At organisational level, overall risk management should be assigned to an independent Risk Management Committee or Executive Committee of the top Executives that reports directly to the Board of Directors. The purpose of this top level committee is to empower one group with full responsibility of evaluating overall risks faced by the bank ",
+    "document_type": "financial",
+    "section_number": 1,
+    "total_sections": 3,
+    "word_count": 149,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Risk Management Structure",
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "financial_risk_management_structure_1",
+    "title": "Risk Management Structure",
+    "content": " top Executives that reports directly to the Board of Directors. The purpose of this top level committee is to empower one group with full responsibility of evaluating overall risks faced by the bank and determining the level of risks which will be in the best interest of the bank. At the same time, the Committee should hold the line management more accountable for the risks under their control, and the performance of the bank in that area. The functions of Risk Management Committee should essentially be to identify, monitor and measure the risk profile of the bank. The Committee should also develop policies and procedures, verify the models that are used for pricing complex products, review the risk models as development takes place in the markets and also identify new risks. The risk policies should clearly spell out the quantitative prudential limits on various segments of banks operations. Internationally, the trend is towards assigning risk limits in terms of portfolio standards o",
+    "document_type": "financial",
+    "section_number": 2,
+    "total_sections": 3,
+    "word_count": 162,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Risk Management Structure",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "financial_risk_management_structure_2",
+    "title": "Risk Management Structure",
+    "content": "icies should clearly spell out the quantitative prudential limits on various segments of banks operations. Internationally, the trend is towards assigning risk limits in terms of portfolio standards or Credit at Risk (",
+    "document_type": "financial",
+    "section_number": 3,
+    "total_sections": 3,
+    "word_count": 33,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Risk Management Structure",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "financial_market_risk_0",
+    "title": "Market Risk",
+    "content": "). The Committee should design stress scenarios to measure the impact of unusual 2 market conditions and monitor variance between the actual volatility of portfolio value and that predicted by the risk measures. The Committee should also monitor compliance of various risk parameters by operating Departments. 2.2 A prerequisite for establishment of an effective risk management system is the existence of a robust MIS, consistent in quality. The existing MIS, however, requires substantial upgradation and strengthening of the data collection machinery to ensure the integrity and reliability of data. 2.3 The risk management is a complex function and it requires specialised skills and expertise. Banks have been moving towards the use of sophisticated models for measuring and managing risks. Large banks and those operating in international markets should develop internal risk management models to be able to compete effectively with their competitors. As the domestic market integrates with the",
+    "document_type": "financial",
+    "section_number": 1,
+    "total_sections": 40,
+    "word_count": 149,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "financial_market_risk_1",
+    "title": "Market Risk",
+    "content": "e banks and those operating in international markets should develop internal risk management models to be able to compete effectively with their competitors. As the domestic market integrates with the international markets, the banks should have necessary expertise and skill in managing various types of risks in a scientific manner. At a more sophisticated level, the core staff at Head Offices should be trained in risk modelling and analytical tools. It should, therefore, be the endeavour of all banks to upgrade the skills of staff. 2.4 Given the diversity of balance sheet profile, it is difficult to adopt a uniform framework for management of risks in India. The design of risk management functions should be bank specific, dictated by the size, complexity of functions, the level of technical expertise and the quality of MIS. The proposed guidelines only provide broad parameters and each bank may evolve their own systems compatible to their risk management architecture and expertise. 2.",
+    "document_type": "financial",
+    "section_number": 2,
+    "total_sections": 40,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "financial_market_risk_2",
+    "title": "Market Risk",
+    "content": "al expertise and the quality of MIS. The proposed guidelines only provide broad parameters and each bank may evolve their own systems compatible to their risk management architecture and expertise. 2.5 Internationally, a committee approach to risk management is being adopted. While the Asset - Liability Management Committee (ALCO) deal with different types of market risk, the Credit Policy Committee (CPC) oversees the credit counterparty risk and country risk. Thus, market and credit risks are managed in a parallel two-track approach in banks. Banks could also set-up a single Committee for integrated management of credit and market risks. Generally, the policies and procedures for market risk are articulated in the ALM policies and credit risk is addressed in Loan Policies and Procedures. 2.6 Currently, while market variables are held constant for quantifying credit risk, credit variables are held constant in estimating market risk. The economic crises in some of the countries have rev",
+    "document_type": "financial",
+    "section_number": 3,
+    "total_sections": 40,
+    "word_count": 153,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "financial_market_risk_3",
+    "title": "Market Risk",
+    "content": "2.6 Currently, while market variables are held constant for quantifying credit risk, credit variables are held constant in estimating market risk. The economic crises in some of the countries have revealed a strong correlation between unhedged market risk and credit risk. Forex exposures, assumed by corporates who have no natural hedges, will increase the credit risk which banks run vis-à-vis their counterparties. The volatility in the prices of collateral also significantly affects the quality of the loan book. Thus, there is a need for integration of the activities of both the ALCO and the CPC and consultation process should be established to evaluate the impact of market and credit risks on the financial strength of banks. Banks may also consider integrating market risk elements into their credit risk assessment process. 3. Credit Risk 3.1 General 3.1.1 Lending involves a number of risks. In addition to the risks related to creditworthiness of the counterparty, the banks are also ex",
+    "document_type": "financial",
+    "section_number": 4,
+    "total_sections": 40,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "financial_market_risk_4",
+    "title": "Market Risk",
+    "content": "eir credit risk assessment process. 3. Credit Risk 3.1 General 3.1.1 Lending involves a number of risks. In addition to the risks related to creditworthiness of the counterparty, the banks are also exposed to interest rate, forex and country risks. 3.1.2 Credit risk or default risk involves inability or unwillingness of a customer or counterparty to meet commitments in relation to lending, trading, hedging, settlement and other financial 3 transactions. The Credit Risk is generally made up of transaction risk or default risk and portfolio risk. The portfolio risk in turn comprises intrinsic and concentration risk. The credit risk of a bank s portfolio depends on both external and internal factors. The external factors are the state of the economy, wide swings in commodity equity prices, foreign exchange rates and interest rates, trade restrictions, economic sanctions, Government policies, etc. The internal factors are deficiencies in loan policies administration, absence of prudential ",
+    "document_type": "financial",
+    "section_number": 5,
+    "total_sections": 40,
+    "word_count": 151,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "financial_market_risk_5",
+    "title": "Market Risk",
+    "content": "reign exchange rates and interest rates, trade restrictions, economic sanctions, Government policies, etc. The internal factors are deficiencies in loan policies administration, absence of prudential credit concentration limits, inadequately defined lending limits for Loan Officers Credit Committees, deficiencies in appraisal of borrowers financial position, excessive dependence on collaterals and inadequate risk pricing, absence of loan review mechanism and post sanction surveillance, etc. 3.1.3 Another variant of credit risk is counterparty risk. The counterparty risk arises from nonperformance of the trading partners. The non-performance may arise from counterparty s refusal inability to perform due to adverse price movements or from external constraints that were not anticipated by the principal. The counterparty risk is generally viewed as a transient financial risk associated with trading rather than standard credit risk. 3.1.4 The management of credit risk should receive the top",
+    "document_type": "financial",
+    "section_number": 6,
+    "total_sections": 40,
+    "word_count": 137,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "financial_market_risk_6",
+    "title": "Market Risk",
+    "content": " principal. The counterparty risk is generally viewed as a transient financial risk associated with trading rather than standard credit risk. 3.1.4 The management of credit risk should receive the top management s attention and the process should encompass: a) Measurement of risk through credit rating scoring; b) Quantifying the risk through estimating expected loan losses i.e. the amount of loan losses that bank would experience over a chosen time horizon (through tracking portfolio behaviour over 5 or more years) and unexpected loan losses i.e. the amount by which actual losses exceed the expected loss (through standard deviation of losses or the difference between expected loan losses and some selected target credit loss quantile); c) Risk pricing on a scientific basis; and d) Controlling the risk through effective Loan Review Mechanism and portfolio management. 3.1.5 The credit risk management process should be articulated in the bank s Loan Policy, duly approved by the Board. Each",
+    "document_type": "financial",
+    "section_number": 7,
+    "total_sections": 40,
+    "word_count": 154,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 6
+    }
+  },
+  {
+    "id": "financial_market_risk_7",
+    "title": "Market Risk",
+    "content": "ng the risk through effective Loan Review Mechanism and portfolio management. 3.1.5 The credit risk management process should be articulated in the bank s Loan Policy, duly approved by the Board. Each bank should constitute a high level Credit Policy Committee, also called Credit Risk Management Committee or Credit Control Committee etc. to deal with issues relating to credit policy and procedures and to analyse, manage and control credit risk on a bank wide basis. The Committee should be headed by the Chairman CEO ED, and should comprise heads of Credit Department, Treasury, Credit Risk Management Department (CRMD) and the Chief Economist. The Committee should, inter alia, formulate clear policies on standards for presentation of credit proposals, financial covenants, rating standards and benchmarks, delegation of credit approving powers, prudential limits on large credit exposures, asset concentrations, standards for loan collateral, portfolio management, loan review mechanism, risk ",
+    "document_type": "financial",
+    "section_number": 8,
+    "total_sections": 40,
+    "word_count": 146,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 7
+    }
+  },
+  {
+    "id": "financial_market_risk_8",
+    "title": "Market Risk",
+    "content": " benchmarks, delegation of credit approving powers, prudential limits on large credit exposures, asset concentrations, standards for loan collateral, portfolio management, loan review mechanism, risk concentrations, risk monitoring and evaluation, pricing of loans, provisioning, regulatory legal compliance, etc. Concurrently, each bank should also set up Credit Risk Management Department (CRMD), independent of the Credit Administration Department. The CRMD should enforce and monitor compliance of the risk parameters and prudential limits set by the CPC. The CRMD should also lay down risk assessment systems, monitor quality of loan portfolio, identify problems and correct deficiencies, develop MIS and undertake loan review audit. Large banks may consider separate set up for loan review audit. The CRMD should also be made accountable for protecting the quality of the entire loan portfolio. The Department should undertake portfolio evaluations and conduct comprehensive studies on the envi",
+    "document_type": "financial",
+    "section_number": 9,
+    "total_sections": 40,
+    "word_count": 139,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 8
+    }
+  },
+  {
+    "id": "financial_market_risk_9",
+    "title": "Market Risk",
+    "content": "t. The CRMD should also be made accountable for protecting the quality of the entire loan portfolio. The Department should undertake portfolio evaluations and conduct comprehensive studies on the environment to test the resilience of the loan portfolio. 4 3.2 Instruments of Credit Risk Management Credit Risk Management encompasses a host of management techniques, which help the banks in mitigating the adverse impacts of credit risk. 3.2.1 Credit Approving Authority Each bank should have a carefully formulated scheme of delegation of powers. The banks should also evolve multi-tier credit approving system where the loan proposals are approved by an Approval Grid or a Committee . The credit facilities above a specified limit may be approved by the Grid or Committee , comprising at least 3 or 4 officers and invariably one officer should represent the CRMD, who has no volume and profit targets. Banks can also consider credit approving committees at various operating levels i.e. large branch",
+    "document_type": "financial",
+    "section_number": 10,
+    "total_sections": 40,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 9
+    }
+  },
+  {
+    "id": "financial_market_risk_10",
+    "title": "Market Risk",
+    "content": "4 officers and invariably one officer should represent the CRMD, who has no volume and profit targets. Banks can also consider credit approving committees at various operating levels i.e. large branches (where considered necessary), Regional Offices, Zonal Offices, Head Offices, etc. Banks could consider delegating powers for sanction of higher limits to the Approval Grid or the Committee for better rated quality customers. The spirit of the credit approving system may be that no credit proposals should be approved or recommended to higher authorities, if majority members of the Approval Grid or Committee do not agree on the creditworthiness of the borrower. In case of disagreement, the specific views of the dissenting member s should be recorded. The banks should also evolve suitable framework for reporting and evaluating the quality of credit decisions taken by various functional groups. The quality of credit decisions should be evaluated within a reasonable time, say 3 6 months, thr",
+    "document_type": "financial",
+    "section_number": 11,
+    "total_sections": 40,
+    "word_count": 155,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 10
+    }
+  },
+  {
+    "id": "financial_market_risk_11",
+    "title": "Market Risk",
+    "content": "ework for reporting and evaluating the quality of credit decisions taken by various functional groups. The quality of credit decisions should be evaluated within a reasonable time, say 3 6 months, through a well-defined Loan Review Mechanism. 3.2.2 Prudential Limits In order to limit the magnitude of credit risk, prudential limits should be laid down on various aspects of credit: a) stipulate benchmark current debt equity and profitability ratios, debt service coverage ratio or other ratios, with flexibility for deviations. The conditions subject to which deviations are permitted and the authority therefor should also be clearly spelt out in the Loan Policy; b) single group borrower limits, which may be lower than the limits prescribed by Reserve Bank to provide a filtering mechanism; c) substantial exposure limit i.e. sum total of exposures assumed in respect of those single borrowers enjoying credit facilities in excess of a threshold limit, say 10% or 15% of capital funds. The subst",
+    "document_type": "financial",
+    "section_number": 12,
+    "total_sections": 40,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 11
+    }
+  },
+  {
+    "id": "financial_market_risk_12",
+    "title": "Market Risk",
+    "content": "ubstantial exposure limit i.e. sum total of exposures assumed in respect of those single borrowers enjoying credit facilities in excess of a threshold limit, say 10% or 15% of capital funds. The substantial exposure limit may be fixed at 600% or 800% of capital funds, depending upon the degree of concentration risk the bank is exposed; d) maximum exposure limits to industry, sector, etc. should be set up. There must also be systems in place to evaluate the exposures at reasonable intervals and the limits should be adjusted especially when a particular sector or industry faces slowdown or other sector industry specific problems. The exposure limits to sensitive sectors, such as, advances against equity shares, real estate, etc., which are subject to a high degree of asset price volatility and to specific industries, which are subject to frequent business cycles, may necessarily be restricted. Similarly, high-risk industries, as perceived by the bank, 5 e) should also be placed under low",
+    "document_type": "financial",
+    "section_number": 13,
+    "total_sections": 40,
+    "word_count": 160,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 12
+    }
+  },
+  {
+    "id": "financial_market_risk_13",
+    "title": "Market Risk",
+    "content": "nd to specific industries, which are subject to frequent business cycles, may necessarily be restricted. Similarly, high-risk industries, as perceived by the bank, 5 e) should also be placed under lower portfolio limit. Any excess exposure should be fully backed by adequate collaterals or strategic considerations; and banks may consider maturity profile of the loan book, keeping in view the market risks inherent in the balance sheet, risk evaluation capability, liquidity, etc. 3.2.3 Risk Rating Banks should have a comprehensive risk scoring rating system that serves as a single point indicator of diverse risk factors of a counterparty and for taking credit decisions in a consistent manner. To facilitate this, a substantial degree of standardisation is required in ratings across borrowers. The risk rating system should be designed to reveal the overall risk of lending, critical input for setting pricing and non-price terms of loans as also present meaningful information for review and m",
+    "document_type": "financial",
+    "section_number": 14,
+    "total_sections": 40,
+    "word_count": 154,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 13
+    }
+  },
+  {
+    "id": "financial_market_risk_14",
+    "title": "Market Risk",
+    "content": "The risk rating system should be designed to reveal the overall risk of lending, critical input for setting pricing and non-price terms of loans as also present meaningful information for review and management of loan portfolio. The risk rating, in short, should reflect the underlying credit risk of the loan book. The rating exercise should also facilitate the credit granting authorities some comfort in its knowledge of loan quality at any moment of time. The risk rating system should be drawn up in a structured manner, incorporating, inter alia, financial analysis, projections and sensitivity, industrial and management risks. The banks may use any number of financial ratios and operational parameters and collaterals as also qualitative aspects of management and industry characteristics that have bearings on the creditworthiness of borrowers. Banks can also weigh the ratios on the basis of the years to which they represent for giving importance to near term developments. Within the rat",
+    "document_type": "financial",
+    "section_number": 15,
+    "total_sections": 40,
+    "word_count": 155,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 14
+    }
+  },
+  {
+    "id": "financial_market_risk_15",
+    "title": "Market Risk",
+    "content": "at have bearings on the creditworthiness of borrowers. Banks can also weigh the ratios on the basis of the years to which they represent for giving importance to near term developments. Within the rating framework, banks can also prescribe certain level of standards or critical parameters, beyond which no proposals should be entertained. Banks may also consider separate rating framework for large corporate small borrowers, traders, etc. that exhibit varying nature and degree of risk. Forex exposures assumed by corporates who have no natural hedges have significantly altered the risk profile of banks. Banks should, therefore, factor the unhedged market risk exposures of borrowers also in the rating framework. The overall score for risk is to be placed on a numerical scale ranging between 1-6, 1-8, etc. on the basis of credit quality. For each numerical category, a quantitative definition of the borrower, the loan s underlying quality, and an analytic representation of the underlying fin",
+    "document_type": "financial",
+    "section_number": 16,
+    "total_sections": 40,
+    "word_count": 156,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 15
+    }
+  },
+  {
+    "id": "financial_market_risk_16",
+    "title": "Market Risk",
+    "content": "6, 1-8, etc. on the basis of credit quality. For each numerical category, a quantitative definition of the borrower, the loan s underlying quality, and an analytic representation of the underlying financials of the borrower should be presented. Further, as a prudent risk management policy, each bank should prescribe the minimum rating below which no exposures would be undertaken. Any flexibility in the minimum standards and conditions for relaxation and authority therefor should be clearly articulated in the Loan Policy. The credit risk assessment exercise should be repeated biannually (or even at shorter intervals for low quality customers) and should be delinked invariably from the regular renewal exercise. The updating of the credit ratings should be undertaken normally at quarterly intervals or at least at half-yearly intervals, in order to gauge the quality of the portfolio at periodic intervals. Variations in the ratings of borrowers over time indicate changes in credit quality a",
+    "document_type": "financial",
+    "section_number": 17,
+    "total_sections": 40,
+    "word_count": 153,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 16
+    }
+  },
+  {
+    "id": "financial_market_risk_17",
+    "title": "Market Risk",
+    "content": "ervals or at least at half-yearly intervals, in order to gauge the quality of the portfolio at periodic intervals. Variations in the ratings of borrowers over time indicate changes in credit quality and expected loan losses from the credit portfolio. Thus, if the rating system is to be meaningful, the credit quality reports should signal changes in expected loan losses. In order to ensure the consistency and accuracy of internal ratings, the responsibility for setting or confirming such ratings should vest with the Loan Review function and examined by an independent Loan Review Group. The banks should undertake comprehensive study on migration (upward lower to higher and downward higher to lower) of borrowers in the ratings to add accuracy in expected loan loss calculations. 6 3.2.4 Risk Pricing Risk-return pricing is a fundamental tenet of risk management. In a risk-return setting, borrowers with weak financial position and hence placed in high credit risk category should be priced hi",
+    "document_type": "financial",
+    "section_number": 18,
+    "total_sections": 40,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 17
+    }
+  },
+  {
+    "id": "financial_market_risk_18",
+    "title": "Market Risk",
+    "content": "ricing Risk-return pricing is a fundamental tenet of risk management. In a risk-return setting, borrowers with weak financial position and hence placed in high credit risk category should be priced high. Thus, banks should evolve scientific systems to price the credit risk, which should have a bearing on the expected probability of default. The pricing of loans normally should be linked to risk rating or credit quality. The probability of default could be derived from the past behaviour of the loan portfolio, which is the function of loan loss provision charge offs for the last five years or so. Banks should build historical database on the portfolio quality and provisioning charge off to equip themselves to price the risk. But value of collateral, market forces, perceived value of accounts, future business potential, portfolio industry exposure and strategic reasons may also play important role in pricing. Flexibility should also be made for revising the price (risk premia) due to cha",
+    "document_type": "financial",
+    "section_number": 19,
+    "total_sections": 40,
+    "word_count": 159,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 18
+    }
+  },
+  {
+    "id": "financial_market_risk_19",
+    "title": "Market Risk",
+    "content": "s, future business potential, portfolio industry exposure and strategic reasons may also play important role in pricing. Flexibility should also be made for revising the price (risk premia) due to changes in rating value of collaterals over time. Large sized banks across the world have already put in place Risk Adjusted Return on Capital (RAROC) framework for pricing of loans, which calls for data on portfolio behaviour and allocation of capital commensurate with credit risk inherent in loan proposals. Under RAROC framework, lender begins by charging an interest mark-up to cover the expected loss expected default rate of the rating category of the borrower. The lender then allocates enough capital to the prospective loan to cover some amount of unexpected loss- variability of default rates. Generally, international banks allocate enough capital so that the expected loan loss reserve or provision plus allocated capital covers 99% of the loan loss outcomes. There is, however, a need for ",
+    "document_type": "financial",
+    "section_number": 20,
+    "total_sections": 40,
+    "word_count": 156,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 19
+    }
+  },
+  {
+    "id": "financial_market_risk_20",
+    "title": "Market Risk",
+    "content": ". Generally, international banks allocate enough capital so that the expected loan loss reserve or provision plus allocated capital covers 99% of the loan loss outcomes. There is, however, a need for comparing the prices quoted by competitors for borrowers perched on the same rating quality. Thus, any attempt at price-cutting for market share would result in mispricing of risk and Adverse Selection . 3.2.5 Portfolio Management The existing framework of tracking the Non Performing Loans around the balance sheet date does not signal the quality of the entire Loan Book. Banks should evolve proper systems for identification of credit weaknesses well in advance. Most of international banks have adopted various portfolio management techniques for gauging asset quality. The CRMD, set up at Head Office should be assigned the responsibility of periodic monitoring of the portfolio. The portfolio quality could be evaluated by tracking the migration (upward or downward) of borrowers from one ratin",
+    "document_type": "financial",
+    "section_number": 21,
+    "total_sections": 40,
+    "word_count": 154,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 20
+    }
+  },
+  {
+    "id": "financial_market_risk_21",
+    "title": "Market Risk",
+    "content": "ffice should be assigned the responsibility of periodic monitoring of the portfolio. The portfolio quality could be evaluated by tracking the migration (upward or downward) of borrowers from one rating scale to another. This process would be meaningful only if the borrower-wise ratings are updated at quarterly half-yearly intervals. Data on movements within grading categories provide a useful insight into the nature and composition of loan book. The banks could also consider the following measures to maintain the portfolio quality: 1) stipulate quantitative ceiling on aggregate exposure in specified rating categories, i.e. certain percentage of total advances should be in the rating category of 1 to 2 or 1 to 3, 2 to 4 or 4 to 5, etc.; 2) evaluate the rating-wise distribution of borrowers in various industry, business segments, etc.; 3) exposure to one industry sector should be evaluated on the basis of overall rating distribution of borrowers in the sector group. In this context, bank",
+    "document_type": "financial",
+    "section_number": 22,
+    "total_sections": 40,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 21
+    }
+  },
+  {
+    "id": "financial_market_risk_22",
+    "title": "Market Risk",
+    "content": "in various industry, business segments, etc.; 3) exposure to one industry sector should be evaluated on the basis of overall rating distribution of borrowers in the sector group. In this context, banks should weigh the pros and cons of specialisation and concentration by industry group. In cases where portfolio exposure to a 7 single industry is badly performing, the banks may increase the quality standards for that specific industry; 4) target rating-wise volume of loans, probable defaults and provisioning requirements as a prudent planning exercise. For any deviation s from the expected parameters, an exercise for restructuring of the portfolio should immediately be undertaken and if necessary, the entrylevel criteria could be enhanced to insulate the portfolio from further deterioration; 5) undertake rapid portfolio reviews, stress tests and scenario analysis when external environment undergoes rapid changes (e.g. volatility in the forex market, economic sanctions, changes in the fi",
+    "document_type": "financial",
+    "section_number": 23,
+    "total_sections": 40,
+    "word_count": 148,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 22
+    }
+  },
+  {
+    "id": "financial_market_risk_23",
+    "title": "Market Risk",
+    "content": "; 5) undertake rapid portfolio reviews, stress tests and scenario analysis when external environment undergoes rapid changes (e.g. volatility in the forex market, economic sanctions, changes in the fiscal monetary policies, general slowdown of the economy, market risk events, extreme liquidity conditions, etc.). The stress tests would reveal undetected areas of potential credit risk exposure and linkages between different categories of risk. In adverse circumstances, there may be substantial correlation of various risks, especially credit and market risks. Stress testing can range from relatively simple alterations in assumptions about one or more financial, structural or economic variables to the use of highly sophisticated models. The output of such portfolio-wide stress tests should be reviewed by the Board and suitable changes may be made in prudential risk limits for protecting the quality. Stress tests could also include contingency plans, detailing management responses to stress",
+    "document_type": "financial",
+    "section_number": 24,
+    "total_sections": 40,
+    "word_count": 143,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 23
+    }
+  },
+  {
+    "id": "financial_market_risk_24",
+    "title": "Market Risk",
+    "content": "reviewed by the Board and suitable changes may be made in prudential risk limits for protecting the quality. Stress tests could also include contingency plans, detailing management responses to stressful situations. 6) introduce discriminatory time schedules for renewal of borrower limits. Lower rated borrowers whose financials show signs of problems should be subjected to renewal control twice thrice an year. Banks should evolve suitable framework for monitoring the market risks especially forex risk exposure of corporates who have no natural hedges on a regular basis. Banks should also appoint Portfolio Managers to watch the loan portfolio s degree of concentrations and exposure to counterparties. For comprehensive evaluation of customer exposure, banks may consider appointing Relationship Managers to ensure that overall exposure to a single borrower is monitored, captured and controlled. The Relationship Managers have to work in coordination with the Treasury and Forex Departments. ",
+    "document_type": "financial",
+    "section_number": 25,
+    "total_sections": 40,
+    "word_count": 144,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 24
+    }
+  },
+  {
+    "id": "financial_market_risk_25",
+    "title": "Market Risk",
+    "content": "ip Managers to ensure that overall exposure to a single borrower is monitored, captured and controlled. The Relationship Managers have to work in coordination with the Treasury and Forex Departments. The Relationship Managers may service mainly high value loans so that a substantial share of the loan portfolio, which can alter the risk profile, would be under constant surveillance. Further, transactions with affiliated companies groups need to be aggregated and maintained close to real time. The banks should also put in place formalised systems for identification of accounts showing pronounced credit weaknesses well in advance and also prepare internal guidelines for such an exercise and set time frame for deciding courses of action. Many of the international banks have adopted credit risk models for evaluation of credit portfolio. The credit risk models offer banks framework for examining credit risk exposures, across geographical locations and product lines in a timely manner, centra",
+    "document_type": "financial",
+    "section_number": 26,
+    "total_sections": 40,
+    "word_count": 151,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 25
+    }
+  },
+  {
+    "id": "financial_market_risk_26",
+    "title": "Market Risk",
+    "content": " models for evaluation of credit portfolio. The credit risk models offer banks framework for examining credit risk exposures, across geographical locations and product lines in a timely manner, centralising data and analysing marginal and absolute contributions to risk. The models also provide estimates of credit risk (unexpected loss) which reflect individual portfolio composition. The Altman s Z Score forecasts the probability of a company entering bankruptcy within a 12-month period. The model combines five financial ratios using reported accounting information and equity values to produce an objective measure of borrower s financial health. J. P. Morgan has developed a portfolio model Credit Metrics for evaluating credit risk. The model basically focus on estimating the volatility in the value of assets caused by variations in the quality of assets. The volatility is computed by tracking the probability that the borrower might migrate from one rating category to another (downgrade ",
+    "document_type": "financial",
+    "section_number": 27,
+    "total_sections": 40,
+    "word_count": 148,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 26
+    }
+  },
+  {
+    "id": "financial_market_risk_27",
+    "title": "Market Risk",
+    "content": "he value of assets caused by variations in the quality of assets. The volatility is computed by tracking the probability that the borrower might migrate from one rating category to another (downgrade or upgrade). Thus, the value of loans can change over time, reflecting migration of the borrowers to a different risk-rating grade. The model can be used for promoting transparency in credit risk, establishing benchmark for credit risk 8 measurement and estimating economic capital for credit risk under RAROC framework. Credit Suisse developed a statistical method for measuring and accounting for credit risk which is known as Credit Risk . The model is based on actuarial calculation of expected default rates and unexpected losses from default. The banks may evaluate the utility of these models with suitable modifications to Indian environment for fine-tuning the credit risk management. The success of credit risk models impinges on time series data on historical loan loss rates and other mod",
+    "document_type": "financial",
+    "section_number": 28,
+    "total_sections": 40,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 27
+    }
+  },
+  {
+    "id": "financial_market_risk_28",
+    "title": "Market Risk",
+    "content": "with suitable modifications to Indian environment for fine-tuning the credit risk management. The success of credit risk models impinges on time series data on historical loan loss rates and other model variables, spanning multiple credit cycles. Banks may, therefore, endeavour building adequate database for switching over to credit risk modelling after a specified period of time. 3.2.6 Loan Review Mechanism (LRM) LRM is an effective tool for constantly evaluating the quality of loan book and to bring about qualitative improvements in credit administration. Banks should, therefore, put in place proper Loan Review Mechanism for large value accounts with responsibilities assigned in various areas such as, evaluating the effectiveness of loan administration, maintaining the integrity of credit grading process, assessing the loan loss provision, portfolio quality, etc. The complexity and scope of LRM normally vary based on banks size, type of operations and management practices. It may be ",
+    "document_type": "financial",
+    "section_number": 29,
+    "total_sections": 40,
+    "word_count": 147,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 28
+    }
+  },
+  {
+    "id": "financial_market_risk_29",
+    "title": "Market Risk",
+    "content": "t grading process, assessing the loan loss provision, portfolio quality, etc. The complexity and scope of LRM normally vary based on banks size, type of operations and management practices. It may be independent of the CRMD or even separate Department in large banks. The main objectives of LRM could be: to identify promptly loans which develop credit weaknesses and initiate timely corrective action; to evaluate portfolio quality and isolate potential problem areas; to provide information for determining adequacy of loan loss provision; to assess the adequacy of and adherence to, loan policies and procedures, and to monitor compliance with relevant laws and regulations; and to provide top management with information on credit administration, including credit sanction process, risk evaluation and post-sanction follow-up. Accurate and timely credit grading is one of the basic components of an effective LRM. Credit grading involves assessment of credit quality, identification of problem lo",
+    "document_type": "financial",
+    "section_number": 30,
+    "total_sections": 40,
+    "word_count": 148,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 29
+    }
+  },
+  {
+    "id": "financial_market_risk_30",
+    "title": "Market Risk",
+    "content": "n and post-sanction follow-up. Accurate and timely credit grading is one of the basic components of an effective LRM. Credit grading involves assessment of credit quality, identification of problem loans, and assignment of risk ratings. A proper Credit Grading System should support evaluating the portfolio quality and establishing loan loss provisions. Given the importance and subjective nature of credit rating, the credit ratings awarded by Credit Administration Department should be subjected to review by Loan Review Officers who are independent of loan administration. 3.2.7 Banks should formulate Loan Review Policy and it should be reviewed annually by the Board. The Policy should, inter alia, address: Qualification and Independence The Loan Review Officers should have sound knowledge in credit appraisal, lending practices and loan policies of the bank. They should also be well versed in the relevant laws regulations that affect lending activities. The independence of Loan Review Off",
+    "document_type": "financial",
+    "section_number": 31,
+    "total_sections": 40,
+    "word_count": 148,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 30
+    }
+  },
+  {
+    "id": "financial_market_risk_31",
+    "title": "Market Risk",
+    "content": " credit appraisal, lending practices and loan policies of the bank. They should also be well versed in the relevant laws regulations that affect lending activities. The independence of Loan Review Officers should be ensured and the findings of the reviews should also be reported directly to the Board or Committee of the Board. 9 Frequency and Scope of Reviews The Loan Reviews are designed to provide feedback on effectiveness of credit sanction and to identify incipient deterioration in portfolio quality. Reviews of high value loans should be undertaken usually within three months of sanction renewal or more frequently when factors indicate a potential for deterioration in the credit quality. The scope of the review should cover all loans above a cut-off limit. In addition, banks should also target other accounts that present elevated risk characteristics. At least 30-40% of the portfolio should be subjected to LRM in a year to provide reasonable assurance that all the major credit risk",
+    "document_type": "financial",
+    "section_number": 32,
+    "total_sections": 40,
+    "word_count": 159,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 31
+    }
+  },
+  {
+    "id": "financial_market_risk_32",
+    "title": "Market Risk",
+    "content": "o target other accounts that present elevated risk characteristics. At least 30-40% of the portfolio should be subjected to LRM in a year to provide reasonable assurance that all the major credit risks embedded in the balance sheet have been tracked. Depth of Reviews The loan reviews should focus on: Approval process; Accuracy and timeliness of credit ratings assigned by loan officers; Adherence to internal policies and procedures, and applicable laws regulations; Compliance with loan covenants; Post-sanction follow-up; Sufficiency of loan documentation; Portfolio quality; and Recommendations for improving portfolio quality 3.2.8 The findings of Reviews should be discussed with line Managers and the corrective actions should be elicited for all deficiencies. Deficiencies that remain unresolved should be reported to top management. 3.2.9 The Risk Management Group of the Basle Committee on Banking Supervision has released a consultative paper on Principles for the Management of Credit Ri",
+    "document_type": "financial",
+    "section_number": 33,
+    "total_sections": 40,
+    "word_count": 146,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 32
+    }
+  },
+  {
+    "id": "financial_market_risk_33",
+    "title": "Market Risk",
+    "content": "lved should be reported to top management. 3.2.9 The Risk Management Group of the Basle Committee on Banking Supervision has released a consultative paper on Principles for the Management of Credit Risk. The Paper deals with various aspects relating to credit risk management. The Paper is enclosed for information of banks. 4. Credit Risk and Investment Banking 4.1 Significant magnitude of credit risk, in addition to market risk, is inherent in investment banking. The proposals for investments should also be subjected to the same degree of credit risk analysis, as any loan proposals. The proposals should be subjected to detailed appraisal and rating framework that factors in financial and non-financial parameters of issuers, sensitivity to external developments, etc. The maximum exposure to a customer should be bank-wide and include all exposures assumed by the Credit and Treasury Departments. The coupon on nonsovereign papers should be commensurate with their risk profile. The banks sh",
+    "document_type": "financial",
+    "section_number": 34,
+    "total_sections": 40,
+    "word_count": 153,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 33
+    }
+  },
+  {
+    "id": "financial_market_risk_34",
+    "title": "Market Risk",
+    "content": " a customer should be bank-wide and include all exposures assumed by the Credit and Treasury Departments. The coupon on nonsovereign papers should be commensurate with their risk profile. The banks should exercise due caution, particularly in investment proposals, which are not rated and should ensure comprehensive risk evaluation. There should be greater interaction between Credit and Treasury Departments and the portfolio analysis should also cover the total exposures, including investments. The rating migration of the issuers and the consequent diminution in the portfolio quality should also be tracked at periodic intervals. 10 4.2 As a matter of prudence, banks should stipulate entry level minimum ratings quality standards, industry, maturity, duration, issuer-wise, etc. limits in investment proposals as well to mitigate the adverse impacts of concentration and the risk of illiquidity. 5. Credit Risk in Off-balance Sheet Exposure 5.1 Banks should evolve adequate framework for manag",
+    "document_type": "financial",
+    "section_number": 35,
+    "total_sections": 40,
+    "word_count": 145,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 34
+    }
+  },
+  {
+    "id": "financial_market_risk_35",
+    "title": "Market Risk",
+    "content": "stment proposals as well to mitigate the adverse impacts of concentration and the risk of illiquidity. 5. Credit Risk in Off-balance Sheet Exposure 5.1 Banks should evolve adequate framework for managing their exposure in off-balance sheet products like forex forward contracts, swaps, options, etc. as a part of overall credit to individual customer relationship and subject to the same credit appraisal, limits and monitoring procedures. Banks should classify their off-balance sheet exposures into three broad categories - full risk (credit substitutes) - standby letters of credit, money guarantees, etc, medium risk (not direct credit substitutes, which do not support existing financial obligations) - bid bonds, letters of credit, indemnities and warranties and low risk - reverse repos, currency swaps, options, futures, etc. 5.2 The trading credit exposure to counterparties can be measured on static (constant percentage of the notional principal over the life of the transaction) and on a ",
+    "document_type": "financial",
+    "section_number": 36,
+    "total_sections": 40,
+    "word_count": 149,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 35
+    }
+  },
+  {
+    "id": "financial_market_risk_36",
+    "title": "Market Risk",
+    "content": "ncy swaps, options, futures, etc. 5.2 The trading credit exposure to counterparties can be measured on static (constant percentage of the notional principal over the life of the transaction) and on a dynamic basis. The total exposures to the counterparties on a dynamic basis should be the sum total of: 1) the current replacement cost (unrealised loss to the counterparty); and 2) the potential increase in replacement cost (estimated with the help of Va R or other methods to capture future volatilities in the value of the outstanding contracts obligations). The current and potential credit exposures may be measured on a daily basis to evaluate the impact of potential changes in market conditions on the value of counterparty positions. The potential exposures also may be quantified by subjecting the position to market movements involving normal and abnormal movements in interest rates, foreign exchange rates, equity prices, liquidity conditions, etc. 6. Inter-bank Exposure and Country Ris",
+    "document_type": "financial",
+    "section_number": 37,
+    "total_sections": 40,
+    "word_count": 155,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 36
+    }
+  },
+  {
+    "id": "financial_market_risk_37",
+    "title": "Market Risk",
+    "content": "ing the position to market movements involving normal and abnormal movements in interest rates, foreign exchange rates, equity prices, liquidity conditions, etc. 6. Inter-bank Exposure and Country Risk 6.1 A suitable framework should be evolved to provide a centralised overview on the aggregate exposure on other banks. Bank-wise exposure limits could be set on the basis of assessment of financial performance, operating efficiency, management quality, past experience, etc. Like corporate clients, banks should also be rated and placed in range of 1-5, 1-8, as the case may be, on the basis of their credit quality. The limits so arrived at should be allocated to various operating centres and followed up and half-yearly annual reviews undertaken at a single point. Regarding exposure on overseas banks, banks can use the country ratings of international rating agencies and classify the countries into low risk, moderate risk and high risk. Banks should endeavour for developing an internal matr",
+    "document_type": "financial",
+    "section_number": 38,
+    "total_sections": 40,
+    "word_count": 154,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 37
+    }
+  },
+  {
+    "id": "financial_market_risk_38",
+    "title": "Market Risk",
+    "content": " banks, banks can use the country ratings of international rating agencies and classify the countries into low risk, moderate risk and high risk. Banks should endeavour for developing an internal matrix that reckons the counterparty and country risks. The maximum exposure should be subjected to adherence of country and bank exposure limits already in place. While the exposure should at least be monitored on a weekly basis till the banks are equipped to monitor exposures on a real time basis, all exposures to problem countries should be evaluated on a real time basis. 7. Market Risk 7.1 Traditionally, credit risk management was the primary challenge for banks. With progressive deregulation, market risk arising from adverse changes in market variables, such as interest rate, 11 foreign exchange rate, equity price and commodity price has become relatively more important. Even a small change in market variables causes substantial changes in income and economic value of banks. Market risk t",
+    "document_type": "financial",
+    "section_number": 39,
+    "total_sections": 40,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 38
+    }
+  },
+  {
+    "id": "financial_market_risk_39",
+    "title": "Market Risk",
+    "content": "nge rate, equity price and commodity price has become relatively more important. Even a small change in market variables causes substantial changes in income and economic value of banks. Market risk takes the form of: 1) Liquidity Risk 2)",
+    "document_type": "financial",
+    "section_number": 40,
+    "total_sections": 40,
+    "word_count": 39,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Market Risk",
+      "chunk_index": 39
+    }
+  },
+  {
+    "id": "financial_interest_rate_risk_0",
+    "title": "Interest Rate Risk",
+    "content": "3) Foreign Exchange Rate (Forex) Risk 4) Commodity Price Risk and 5) Equity Price Risk 8. Market Risk Management 8.1 Management of market risk should be the major concern of top management of banks. The Boards should clearly articulate market risk management policies, procedures, prudential risk limits, review mechanisms and reporting and auditing systems. The policies should address the bank s exposure on a consolidated basis and clearly articulate the risk measurement systems that capture all material sources of market risk and assess the effects on the bank. The operating prudential limits and the accountability of the line management should also be clearly defined. The Asset-Liability Management Committee (ALCO) should function as the top operational unit for managing the balance sheet within the performance risk parameters laid down by the Board. The banks should also set up an independent Middle Office to track the magnitude of market risk on a real time basis. The Middle Office ",
+    "document_type": "financial",
+    "section_number": 1,
+    "total_sections": 2,
+    "word_count": 156,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Interest Rate Risk",
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "financial_interest_rate_risk_1",
+    "title": "Interest Rate Risk",
+    "content": " within the performance risk parameters laid down by the Board. The banks should also set up an independent Middle Office to track the magnitude of market risk on a real time basis. The Middle Office should comprise of experts in market risk management, economists, statisticians and general bankers and may be functionally placed directly under the ALCO. The Middle Office should also be separated from Treasury Department and should not be involved in the day to day management of Treasury. The Middle Office should apprise the top management ALCO Treasury about adherence to prudential risk parameters and also aggregate the total market risk exposures assumed by the bank at any point of time. 8.2",
+    "document_type": "financial",
+    "section_number": 2,
+    "total_sections": 2,
+    "word_count": 114,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Interest Rate Risk",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_0",
+    "title": "Liquidity Risk",
+    "content": "2) Interest Rate Risk 3) Foreign Exchange Rate (Forex) Risk 4) Commodity Price Risk and 5) Equity Price Risk 8. Market Risk Management 8.1 Management of market risk should be the major concern of top management of banks. The Boards should clearly articulate market risk management policies, procedures, prudential risk limits, review mechanisms and reporting and auditing systems. The policies should address the bank s exposure on a consolidated basis and clearly articulate the risk measurement systems that capture all material sources of market risk and assess the effects on the bank. The operating prudential limits and the accountability of the line management should also be clearly defined. The Asset-Liability Management Committee (ALCO) should function as the top operational unit for managing the balance sheet within the performance risk parameters laid down by the Board. The banks should also set up an independent Middle Office to track the magnitude of market risk on a real time bas",
+    "document_type": "financial",
+    "section_number": 1,
+    "total_sections": 49,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_1",
+    "title": "Liquidity Risk",
+    "content": "ging the balance sheet within the performance risk parameters laid down by the Board. The banks should also set up an independent Middle Office to track the magnitude of market risk on a real time basis. The Middle Office should comprise of experts in market risk management, economists, statisticians and general bankers and may be functionally placed directly under the ALCO. The Middle Office should also be separated from Treasury Department and should not be involved in the day to day management of Treasury. The Middle Office should apprise the top management ALCO Treasury about adherence to prudential risk parameters and also aggregate the total market risk exposures assumed by the bank at any point of time. 8.2 Liquidity Risk 8.2.1 Liquidity Planning is an important facet of risk management framework in banks. Liquidity is the ability to efficiently accommodate deposit and other liability decreases, as well as, fund loan portfolio growth and the possible funding of off-balance sheet",
+    "document_type": "financial",
+    "section_number": 2,
+    "total_sections": 49,
+    "word_count": 159,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_2",
+    "title": "Liquidity Risk",
+    "content": "ment framework in banks. Liquidity is the ability to efficiently accommodate deposit and other liability decreases, as well as, fund loan portfolio growth and the possible funding of off-balance sheet claims. A bank has adequate liquidity when sufficient funds can be raised, either by increasing liabilities or converting assets, promptly and at a reasonable cost. It encompasses the potential sale of liquid assets and borrowings from money, capital and forex markets. Thus, liquidity should be considered as a defence mechanism from losses on fire sale of assets. 8.2.2 The liquidity risk of banks arises from funding of long-term assets by short-term liabilities, thereby making the liabilities subject to rollover or refinancing risk. 8.2.3 The liquidity risk in banks manifest in different dimensions: i) ii) Funding Risk need to replace net outflows due to unanticipated withdrawal nonrenewal of deposits (wholesale and retail); Time Risk - need to compensate for non-receipt of expected inflo",
+    "document_type": "financial",
+    "section_number": 3,
+    "total_sections": 49,
+    "word_count": 152,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_3",
+    "title": "Liquidity Risk",
+    "content": "nsions: i) ii) Funding Risk need to replace net outflows due to unanticipated withdrawal nonrenewal of deposits (wholesale and retail); Time Risk - need to compensate for non-receipt of expected inflows of funds, i.e. performing assets turning into non-performing assets; and 12 iii) Call Risk - due to crystallisation of contingent liabilities and unable to undertake profitable business opportunities when desirable. 8.2.4 The first step towards liquidity management is to put in place an effective liquidity management policy, which, inter alia, should spell out the funding strategies, liquidity planning under alternative scenarios, prudential limits, liquidity reporting reviewing, etc. 8.2.5 Liquidity measurement is quite a difficult task and can be measured through stock or cash flow approaches. The key ratios, adopted across the banking system are: i) ii) iii) iv) v) Loans to Total Assets Loans to Core Deposits Large Liabilities (minus) Temporary Investments to Earning Assets (minus) T",
+    "document_type": "financial",
+    "section_number": 4,
+    "total_sections": 49,
+    "word_count": 148,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_4",
+    "title": "Liquidity Risk",
+    "content": "ches. The key ratios, adopted across the banking system are: i) ii) iii) iv) v) Loans to Total Assets Loans to Core Deposits Large Liabilities (minus) Temporary Investments to Earning Assets (minus) Temporary Investments, where large liabilities represent wholesale deposits which are market sensitive and temporary Investments are those maturing within one year and those investments which are held in the trading book and are readily sold in the market; Purchased Funds to Total Assets, where purchased funds include the entire inter-bank and other money market borrowings, including Certificate of Deposits and institutional deposits; and Loan Losses Net Loans. 8.2.6 While the liquidity ratios are the ideal indicator of liquidity of banks operating in developed financial markets, the ratios do not reveal the intrinsic liquidity profile of Indian banks which are operating generally in an illiquid market. Experiences show that assets commonly considered as liquid like Government securities, o",
+    "document_type": "financial",
+    "section_number": 5,
+    "total_sections": 49,
+    "word_count": 149,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_5",
+    "title": "Liquidity Risk",
+    "content": "not reveal the intrinsic liquidity profile of Indian banks which are operating generally in an illiquid market. Experiences show that assets commonly considered as liquid like Government securities, other money market instruments, etc. have limited liquidity as the market and players are unidirectional. Thus, analysis of liquidity involves tracking of cash flow mismatches. For measuring and managing net funding requirements, the use of maturity ladder and calculation of cumulative surplus or deficit of funds at selected maturity dates is recommended as a standard tool. The format prescribed by RBI in this regard under ALM System should be adopted for measuring cash flow mismatches at different time bands. The cash flows should be placed in different time bands based on future behaviour of assets, liabilities and off-balance sheet items. In other words, banks should have to analyse the behavioural maturity profile of various components of on off-balance sheet items on the basis of assum",
+    "document_type": "financial",
+    "section_number": 6,
+    "total_sections": 49,
+    "word_count": 153,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_6",
+    "title": "Liquidity Risk",
+    "content": "assets, liabilities and off-balance sheet items. In other words, banks should have to analyse the behavioural maturity profile of various components of on off-balance sheet items on the basis of assumptions and trend analysis supported by time series analysis. Banks should also undertake variance analysis, at least, once in six months to validate the assumptions. The assumptions should be fine-tuned over a period which facilitate near reality predictions about future behaviour of on off-balance sheet items. Apart from the above cash flows, banks should also track the impact of prepayments of loans, premature closure of deposits and exercise of options built in certain instruments which offer put call options after specified times. Thus, cash outflows can be ranked by the date on which liabilities fall due, the earliest date a liability holder could exercise an early repayment option or the earliest date contingencies could be crystallised. 8.2.7 The difference between cash inflows and ",
+    "document_type": "financial",
+    "section_number": 7,
+    "total_sections": 49,
+    "word_count": 153,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 6
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_7",
+    "title": "Liquidity Risk",
+    "content": "ilities fall due, the earliest date a liability holder could exercise an early repayment option or the earliest date contingencies could be crystallised. 8.2.7 The difference between cash inflows and outflows in each time period, the excess or deficit of funds, becomes a starting point for a measure of a bank s future liquidity surplus or deficit, at a series of points of time. The banks should also consider putting in place certain prudential limits to avoid liquidity crisis: 1. Cap on inter-bank borrowings, especially call borrowings; 13 2. Purchased funds vis-à-vis liquid assets; 3. Core deposits vis-à-vis Core Assets i.e. Cash Reserve Ratio, Liquidity Reserve Ratio and Loans; 4. Duration of liabilities and investment portfolio; 5. Maximum Cumulative Outflows. Banks should fix cumulative mismatches across all time bands; 6. Commitment Ratio track the total commitments given to corporates banks and other financial institutions to limit the off-balance sheet exposure; 7. Swapped Funds",
+    "document_type": "financial",
+    "section_number": 8,
+    "total_sections": 49,
+    "word_count": 153,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 7
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_8",
+    "title": "Liquidity Risk",
+    "content": "e mismatches across all time bands; 6. Commitment Ratio track the total commitments given to corporates banks and other financial institutions to limit the off-balance sheet exposure; 7. Swapped Funds Ratio, i.e. extent of Indian Rupees raised out of foreign currency sources. 8.2.8 Banks should also evolve a system for monitoring high value deposits (other than interbank deposits) say Rs.1 crore or more to track the volatile liabilities. Further the cash flows arising out of contingent liabilities in normal situation and the scope for an increase in cash flows during periods of stress should also be estimated. It is quite possible that market crisis can trigger substantial increase in the amount of draw downs from cash credit overdraft accounts, contingent liabilities like letters of credit, etc. 8.2.9 The liquidity profile of the banks could be analysed on a static basis, wherein the assets and liabilities and off-balance sheet items are pegged on a particular day and the behavioural ",
+    "document_type": "financial",
+    "section_number": 9,
+    "total_sections": 49,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 8
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_9",
+    "title": "Liquidity Risk",
+    "content": "t, etc. 8.2.9 The liquidity profile of the banks could be analysed on a static basis, wherein the assets and liabilities and off-balance sheet items are pegged on a particular day and the behavioural pattern and the sensitivity of these items to changes in market interest rates and environment are duly accounted for. The banks can also estimate the liquidity profile on a dynamic way by giving due importance to: 1) Seasonal pattern of deposits loans; 2) Potential liquidity needs for meeting new loan demands, unavailed credit limits, loan policy, potential deposit losses, investment obligations, statutory obligations, etc. 8.2.10 Alternative Scenarios The liquidity profile of banks depends on the market conditions, which influence the cash flow behaviour. Thus, banks should evaluate liquidity profile under different conditions, viz. normal situation, bank specific crisis and market crisis scenario. The banks should establish benchmark for normal situation, cash flow profile of on off bal",
+    "document_type": "financial",
+    "section_number": 10,
+    "total_sections": 49,
+    "word_count": 151,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 9
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_10",
+    "title": "Liquidity Risk",
+    "content": "y profile under different conditions, viz. normal situation, bank specific crisis and market crisis scenario. The banks should establish benchmark for normal situation, cash flow profile of on off balance sheet items and manages net funding requirements. 8.2.11 Estimating liquidity under bank specific crisis should provide a worst-case benchmark. It should be assumed that the purchased funds could not be easily rolled over; some of the core deposits could be prematurely closed; a substantial share of assets have turned into nonperforming and thus become totally illiquid. These developments would lead to rating down grades and high cost of liquidity. The banks should evolve contingency plans to overcome such situations. 8.2.12 The market crisis scenario analyses cases of extreme tightening of liquidity conditions arising out of monetary policy stance of Reserve Bank, general perception about risk profile of the banking system, severe market disruptions, failure of one or more of major p",
+    "document_type": "financial",
+    "section_number": 11,
+    "total_sections": 49,
+    "word_count": 151,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 10
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_11",
+    "title": "Liquidity Risk",
+    "content": "of liquidity conditions arising out of monetary policy stance of Reserve Bank, general perception about risk profile of the banking system, severe market disruptions, failure of one or more of major players in the market, financial crisis, contagion, etc. Under this scenario, the rollover of high value customer deposits and purchased funds could extremely be difficult besides flight of volatile deposits liabilities. The banks could also sell their investment with huge discounts, entailing severe capital loss. 14 8.2.13 Contingency Plan Banks should prepare Contingency Plans to measure their ability to withstand bank-specific or market crisis scenario. The blue-print for asset sales, market access, capacity to restructure the maturity and composition of assets and liabilities should be clearly documented and alternative options of funding in the event of bank s failure to raise liquidity from existing source s could be clearly articulated. Liquidity from the Reserve Bank, arising out of",
+    "document_type": "financial",
+    "section_number": 12,
+    "total_sections": 49,
+    "word_count": 149,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 11
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_12",
+    "title": "Liquidity Risk",
+    "content": "rly documented and alternative options of funding in the event of bank s failure to raise liquidity from existing source s could be clearly articulated. Liquidity from the Reserve Bank, arising out of its refinance window and interim liquidity adjustment facility or as lender of last resort should not be reckoned for contingency plans. Availability of back-up liquidity support in the form of committed lines of credit, reciprocal arrangements, liquidity support from other external sources, liquidity of assets, etc. should also be clearly established. 9. Interest Rate Risk (IRR) 9.1 The management of Interest Rate Risk should be one of the critical components of market risk management in banks. The regulatory restrictions in the past had greatly reduced many of the risks in the banking system. Deregulation of interest rates has, however, exposed them to the adverse impacts of interest rate risk. The Net Interest Income (NII) or Net Interest Margin (NIM) of banks is dependent on the movem",
+    "document_type": "financial",
+    "section_number": 13,
+    "total_sections": 49,
+    "word_count": 159,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 12
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_13",
+    "title": "Liquidity Risk",
+    "content": "m. Deregulation of interest rates has, however, exposed them to the adverse impacts of interest rate risk. The Net Interest Income (NII) or Net Interest Margin (NIM) of banks is dependent on the movements of interest rates. Any mismatches in the cash flows (fixed assets or liabilities) or repricing dates (floating assets or liabilities), expose banks NII or NIM to variations. The earning of assets and the cost of liabilities are now closely related to market interest rate volatility. 9.2 Interest Rate Risk (IRR) refers to potential impact on NII or NIM or Market Value of Equity (MVE), caused by unexpected changes in market interest rates. Interest Rate Risk can take different forms: 9.3 Types of Interest Rate Risk 9.3.1 Gap or Mismatch Risk: A gap or mismatch risk arises from holding assets and liabilities and off-balance sheet items with different principal amounts, maturity dates or repricing dates, thereby creating exposure to unexpected changes in the level of market interest rates",
+    "document_type": "financial",
+    "section_number": 14,
+    "total_sections": 49,
+    "word_count": 161,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 13
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_14",
+    "title": "Liquidity Risk",
+    "content": "s and liabilities and off-balance sheet items with different principal amounts, maturity dates or repricing dates, thereby creating exposure to unexpected changes in the level of market interest rates. 9.3.2 Basis Risk Market interest rates of various instruments seldom change by the same degree during a given period of time. The risk that the interest rate of different assets, liabilities and off-balance sheet items may change in different magnitude is termed as basis risk. The degree of basis risk is fairly high in respect of banks that create composite assets out of composite liabilities. The Loan book in India is funded out of a composite liability portfolio and is exposed to a considerable degree of basis risk. The basis risk is quite visible in volatile interest rate scenarios. When the variation in market interest rate causes the NII to expand, the banks have experienced favourable basis shifts and if the interest rate movement causes the NII to contract, the basis has moved aga",
+    "document_type": "financial",
+    "section_number": 15,
+    "total_sections": 49,
+    "word_count": 163,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 14
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_15",
+    "title": "Liquidity Risk",
+    "content": "the variation in market interest rate causes the NII to expand, the banks have experienced favourable basis shifts and if the interest rate movement causes the NII to contract, the basis has moved against the banks. 9.3.3 Embedded Option Risk 15 Significant changes in market interest rates create another source of risk to banks profitability by encouraging prepayment of cash credit demand loans term loans and exercise of call put options on bonds debentures and or premature withdrawal of term deposits before their stated maturities. The embedded option risk is becoming a reality in India and is experienced in volatile situations. The faster and higher the magnitude of changes in interest rate, the greater will be the embedded option risk to the banks NII. Thus, banks should evolve scientific techniques to estimate the probable embedded options and adjust the Gap statements (Liquidity and Interest Rate Sensitivity) to realistically estimate the risk profiles in their balance sheet. Bank",
+    "document_type": "financial",
+    "section_number": 16,
+    "total_sections": 49,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 15
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_16",
+    "title": "Liquidity Risk",
+    "content": "ic techniques to estimate the probable embedded options and adjust the Gap statements (Liquidity and Interest Rate Sensitivity) to realistically estimate the risk profiles in their balance sheet. Banks should also endeavour for stipulating appropriate penalties based on opportunity costs to stem the exercise of options, which is always to the disadvantage of banks. 9.3.4 Yield Curve Risk In a floating interest rate scenario, banks may price their assets and liabilities based on different benchmarks, i.e. TBs yields, fixed deposit rates, call money rates, MIBOR, etc. In case the banks use two different instruments maturing at different time horizon for pricing their assets and liabilities, any non-parallel movements in yield curves would affect the NII. The movements in yield curve are rather frequent when the economy moves through business cycles. Thus, banks should evaluate the movement in yield curves and the impact of that on the portfolio values and income. 9.3.5 Price Risk Price r",
+    "document_type": "financial",
+    "section_number": 17,
+    "total_sections": 49,
+    "word_count": 155,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 16
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_17",
+    "title": "Liquidity Risk",
+    "content": "er frequent when the economy moves through business cycles. Thus, banks should evaluate the movement in yield curves and the impact of that on the portfolio values and income. 9.3.5 Price Risk Price risk occurs when assets are sold before their stated maturities. In the financial market, bond prices and yields are inversely related. The price risk is closely associated with the trading book, which is created for making profit out of short-term movements in interest rates. Banks which have an active trading book should, therefore, formulate policies to limit the portfolio size, holding period, duration, defeasance period, stop loss limits, marking to market, etc. 9.3.6 Reinvestment Risk Uncertainty with regard to interest rate at which the future cash flows could be reinvested is called reinvestment risk. Any mismatches in cash flows would expose the banks to variations in NII as the market interest rates move in different directions. 9.3.7 Net Interest Position Risk The size of nonpayi",
+    "document_type": "financial",
+    "section_number": 18,
+    "total_sections": 49,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 17
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_18",
+    "title": "Liquidity Risk",
+    "content": "nvestment risk. Any mismatches in cash flows would expose the banks to variations in NII as the market interest rates move in different directions. 9.3.7 Net Interest Position Risk The size of nonpaying liabilities is one of the significant factors contributing towards profitability of banks. When banks have more earning assets than paying liabilities, interest rate risk arises when the market interest rates adjust downwards. Thus, banks with positive net interest positions will experience a reduction in NII as the market interest rate declines and increases when interest rate rises. Thus, large float is a natural hedge against the variations in interest rates. 9.4 Measuring Interest Rate Risk 16 9.4.1 Before interest rate risk could be managed, they should be identified and quantified. Unless the quantum of IRR inherent in the balance sheet is identified, it is impossible to measure the degree of risks to which banks are exposed. It is also equally impossible to develop effective risk",
+    "document_type": "financial",
+    "section_number": 19,
+    "total_sections": 49,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 18
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_19",
+    "title": "Liquidity Risk",
+    "content": "less the quantum of IRR inherent in the balance sheet is identified, it is impossible to measure the degree of risks to which banks are exposed. It is also equally impossible to develop effective risk management strategies hedging techniques without being able to understand the correct risk position of banks. The IRR measurement system should address all material sources of interest rate risk including gap or mismatch, basis, embedded option, yield curve, price, reinvestment and net interest position risks exposures. The IRR measurement system should also take into account the specific characteristics of each individual interest rate sensitive position and should capture in detail the full range of potential movements in interest rates. 9.4.2 There are different techniques for measurement of interest rate risk, ranging from the traditional Maturity Gap Analysis (to measure the interest rate sensitivity of earnings), Duration (to measure interest rate sensitivity of capital), Simulation",
+    "document_type": "financial",
+    "section_number": 20,
+    "total_sections": 49,
+    "word_count": 148,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 19
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_20",
+    "title": "Liquidity Risk",
+    "content": "of interest rate risk, ranging from the traditional Maturity Gap Analysis (to measure the interest rate sensitivity of earnings), Duration (to measure interest rate sensitivity of capital), Simulation and Value at Risk. While these methods highlight different facets of interest rate risk, many banks use them in combination, or use hybrid methods that combine features of all the techniques. 9.4.3 Generally, the approach towards measurement and hedging of IRR varies with the segmentation of the balance sheet. In a well functioning risk management system, banks broadly position their balance sheet into Trading and Investment or Banking Books. While the assets in the trading book are held primarily for generating profit on short-term differences in prices yields, the banking book comprises assets and liabilities, which are contracted basically on account of relationship or for steady income and statutory obligations and are generally held till maturity. Thus, while the price risk is the pr",
+    "document_type": "financial",
+    "section_number": 21,
+    "total_sections": 49,
+    "word_count": 152,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 20
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_21",
+    "title": "Liquidity Risk",
+    "content": "ets and liabilities, which are contracted basically on account of relationship or for steady income and statutory obligations and are generally held till maturity. Thus, while the price risk is the prime concern of banks in trading book, the earnings or economic value changes are the main focus of banking book. 9.5 Trading Book The top management of banks should lay down policies with regard to volume, maximum maturity, holding period, duration, stop loss, defeasance period, rating standards, etc. for classifying securities in the trading book. While the securities held in the trading book should ideally be marked to market on a daily basis, the potential price risk to changes in market risk factors should be estimated through internally developed Value at Risk (Va R) models. The Va R method is employed to assess potential loss that could crystalise on trading position or portfolio due to variations in market interest rates and prices, using a given confidence level, usually 95% to 99%",
+    "document_type": "financial",
+    "section_number": 22,
+    "total_sections": 49,
+    "word_count": 162,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 21
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_22",
+    "title": "Liquidity Risk",
+    "content": "od is employed to assess potential loss that could crystalise on trading position or portfolio due to variations in market interest rates and prices, using a given confidence level, usually 95% to 99%, within a defined period of time. The Va R method should incorporate the market factors against which the market value of the trading position is exposed. The top management should put in place bank-wide Va R exposure limits to the trading portfolio (including forex and gold positions, derivative products, etc.) which is then disaggregated across different desks and departments. The loss making tolerance level should also be stipulated to ensure that potential impact on earnings is managed within acceptable limits. The potential loss in Present Value Basis Points should be matched by the Middle Office on a daily basis vis-à-vis the prudential limits set by the Board. The advantage of using Va R is that it is comparable across products, desks and Departments and it can be validated through",
+    "document_type": "financial",
+    "section_number": 23,
+    "total_sections": 49,
+    "word_count": 162,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 22
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_23",
+    "title": "Liquidity Risk",
+    "content": "le Office on a daily basis vis-à-vis the prudential limits set by the Board. The advantage of using Va R is that it is comparable across products, desks and Departments and it can be validated through back testing . However, Va R models require the use of extensive historical data to estimate future volatility. Va R model also may not give good results in extreme volatile conditions or outlier events and stress test has to be employed to complement Va R. The stress tests provide management a view on the potential impact of large size market movements and also attempt to estimate the size of potential losses due to stress events, which occur in the tails of the loss distribution. Banks may also undertake 17 scenario analysis with specific possible stress situations (recently experienced in some countries) by linking hypothetical, simultaneous and related changes in multiple risk factors present in the trading portfolio to determine the impact of moves on the rest of the portfolio. Va R ",
+    "document_type": "financial",
+    "section_number": 24,
+    "total_sections": 49,
+    "word_count": 167,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 23
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_24",
+    "title": "Liquidity Risk",
+    "content": "some countries) by linking hypothetical, simultaneous and related changes in multiple risk factors present in the trading portfolio to determine the impact of moves on the rest of the portfolio. Va R models could also be modified to reflect liquidity risk differences observed across assets over time. International banks are now estimating Liquidity adjusted Value at Risk (La Va R) by assuming variable time horizons based on position size and relative turnover. In an environment where Va R is difficult to estimate for lack of data, non-statistical concepts such as stop loss and gross net positions can be used. 9.6 Banking Book The changes in market interest rates have earnings and economic value impacts on the banks banking book. Thus, given the complexity and range of balance sheet products, banks should have IRR measurement systems that assess the effects of the rate changes on both earnings and economic value. The variety of techniques ranges from simple maturity (fixed rate) and rep",
+    "document_type": "financial",
+    "section_number": 25,
+    "total_sections": 49,
+    "word_count": 161,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 24
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_25",
+    "title": "Liquidity Risk",
+    "content": "s, banks should have IRR measurement systems that assess the effects of the rate changes on both earnings and economic value. The variety of techniques ranges from simple maturity (fixed rate) and repricing (floating rate) to static simulation, based on current on-and-off-balance sheet positions, to highly sophisticated dynamic modelling techniques that incorporate assumptions on behavioural pattern of assets, liabilities and off-balance sheet items and can easily capture the full range of exposures against basis risk, embedded option risk, yield curve risk, etc. 9.7 Maturity Gap Analysis 9.7.1 The simplest analytical techniques for calculation of IRR exposure begins with maturity Gap analysis that distributes interest rate sensitive assets, liabilities and off-balance sheet positions into a certain number of pre-defined time-bands according to their maturity (fixed rate) or time remaining for their next repricing (floating rate). Those assets and liabilities lacking definite repricing",
+    "document_type": "financial",
+    "section_number": 26,
+    "total_sections": 49,
+    "word_count": 141,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 25
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_26",
+    "title": "Liquidity Risk",
+    "content": " a certain number of pre-defined time-bands according to their maturity (fixed rate) or time remaining for their next repricing (floating rate). Those assets and liabilities lacking definite repricing intervals (savings bank, cash credit, overdraft, loans, export finance, refinance from RBI etc.) or actual maturities vary from contractual maturities (embedded option in bonds with put call options, loans, cash credit overdraft, time deposits, etc.) are assigned time-bands according to the judgement, empirical studies and past experiences of banks. 9.7.2 A number of time bands can be used while constructing a gap report. Generally, most of the banks focus their attention on near-term periods, viz. monthly, quarterly, half-yearly or one year. It is very difficult to take a view on interest rate movements beyond a year. Banks with large exposures in the short-term should test the sensitivity of their assets and liabilities even at shorter intervals like overnight, 1-7 days, 8-14 days, etc.",
+    "document_type": "financial",
+    "section_number": 27,
+    "total_sections": 49,
+    "word_count": 151,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 26
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_27",
+    "title": "Liquidity Risk",
+    "content": "te movements beyond a year. Banks with large exposures in the short-term should test the sensitivity of their assets and liabilities even at shorter intervals like overnight, 1-7 days, 8-14 days, etc. 9.7.3 In order to evaluate the earnings exposure, interest Rate Sensitive Assets (RSAs) in each time band are netted with the interest Rate Sensitive Liabilities (RSLs) to produce a repricing Gap for that time band. The positive Gap indicates that banks have more RSAs than RSLs. A positive or asset sensitive Gap means that an increase in market interest rates could cause an increase in NII. Conversely, a negative or liability sensitive Gap implies that the banks NII could decline as a result of increase in market interest rates. The negative gap indicates that banks have more RSLs than RSAs. The Gap is used as a measure of interest rate sensitivity. The Positive or Negative Gap is multiplied by the assumed interest rate changes to derive the Earnings at Risk (Ea R). The Ea R method facili",
+    "document_type": "financial",
+    "section_number": 28,
+    "total_sections": 49,
+    "word_count": 169,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 27
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_28",
+    "title": "Liquidity Risk",
+    "content": "The Gap is used as a measure of interest rate sensitivity. The Positive or Negative Gap is multiplied by the assumed interest rate changes to derive the Earnings at Risk (Ea R). The Ea R method facilitates to estimate how much the earnings might be impacted by an adverse movement in interest rates. The changes in interest rate could be estimated on the basis of past trends, forecasting of interest rates, etc. The banks should fix Ea R 18 which could be based on last current year s income and a trigger point at which the line management should adopt on-or off-balance sheet hedging strategies may be clearly defined. 9.7.4 The Gap calculations can be augmented by information on the average coupon on assets and liabilities in each time band and the same could be used to calculate estimates of the level of NII from positions maturing or due for repricing within a given time-band, which would then provide a scale to assess the changes in income implied by the gap analysis. 9.7.5 The periodic",
+    "document_type": "financial",
+    "section_number": 29,
+    "total_sections": 49,
+    "word_count": 175,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 28
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_29",
+    "title": "Liquidity Risk",
+    "content": "the level of NII from positions maturing or due for repricing within a given time-band, which would then provide a scale to assess the changes in income implied by the gap analysis. 9.7.5 The periodic gap analysis indicates the interest rate risk exposure of banks over distinct maturities and suggests magnitude of portfolio changes necessary to alter the risk profile. However, the Gap report quantifies only the time difference between repricing dates of assets and liabilities but fails to measure the impact of basis and embedded option risks. The Gap report also fails to measure the entire impact of a change in interest rate (Gap report assumes that all assets and liabilities are matured or repriced simultaneously) within a given time-band and effect of changes in interest rates on the economic or market value of assets, liabilities and offbalance sheet position. It also does not take into account any differences in the timing of payments that might occur as a result of changes in inte",
+    "document_type": "financial",
+    "section_number": 30,
+    "total_sections": 49,
+    "word_count": 165,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 29
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_30",
+    "title": "Liquidity Risk",
+    "content": "nomic or market value of assets, liabilities and offbalance sheet position. It also does not take into account any differences in the timing of payments that might occur as a result of changes in interest rate environment. Further, the assumption of parallel shift in yield curves seldom happen in the financial market. The Gap report also fails to capture variability in non-interest revenue and expenses, a potentially important source of risk to current income. 9.7.6 In case banks could realistically estimate the magnitude of changes in market interest rates of various assets and liabilities (basis risk) and their past behavioural pattern (embedded option risk), they could standardise the gap by multiplying the individual assets and liabilities by how much they will change for a given change in interest rate. Thus, one or several assumptions of standardised gap seem more consistent with real world than the simple gap method. With the Adjusted Gap, banks could realistically estimate the ",
+    "document_type": "financial",
+    "section_number": 31,
+    "total_sections": 49,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 30
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_31",
+    "title": "Liquidity Risk",
+    "content": "e in interest rate. Thus, one or several assumptions of standardised gap seem more consistent with real world than the simple gap method. With the Adjusted Gap, banks could realistically estimate the Ea R. 9.8 Duration Gap Analysis 9.8.1 Matching the duration of assets and liabilities, instead of matching the maturity or repricing dates is the most effective way to protect the economic values of banks from exposure to IRR than the simple gap model. Duration gap model focuses on managing economic value of banks by recognising the change in the market value of assets, liabilities and off-balance sheet (OBS) items. When weighted assets and liabilities and OBS duration are matched, market interest rate movements would have almost same impact on assets, liabilities and OBS, thereby protecting the bank s total equity or net worth. Duration is a measure of the percentage change in the economic value of a position that will occur given a small change in the level of interest rates. 9.8.2 Measu",
+    "document_type": "financial",
+    "section_number": 32,
+    "total_sections": 49,
+    "word_count": 165,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 31
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_32",
+    "title": "Liquidity Risk",
+    "content": "he bank s total equity or net worth. Duration is a measure of the percentage change in the economic value of a position that will occur given a small change in the level of interest rates. 9.8.2 Measuring the duration gap is more complex than the simple gap model. For approximation of duration of assets and liabilities, the simple gap schedule can be used by applying weights to each time-band. The weights are based on estimates of the duration of assets and liabilities and OBS that fall into each time band. The weighted duration of assets and liabilities and OBS provide a rough estimation of the changes in banks economic value to a given change in market interest rates. It is also possible to give different weights and interest rates to assets, liabilities and OBS in different time buckets to capture differences in coupons and maturities and volatilities in interest rates along the yield curve. 19 9.8.3 In a more scientific way, banks can precisely estimate the economic value changes t",
+    "document_type": "financial",
+    "section_number": 33,
+    "total_sections": 49,
+    "word_count": 171,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 32
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_33",
+    "title": "Liquidity Risk",
+    "content": " to capture differences in coupons and maturities and volatilities in interest rates along the yield curve. 19 9.8.3 In a more scientific way, banks can precisely estimate the economic value changes to market interest rates by calculating the duration of each asset, liability and OBS position and weigh each of them to arrive at the weighted duration of assets, liabilities and OBS. Once the weighted duration of assets and liabilities are estimated, the duration gap can be worked out with the help of standard mathematical formulae. The Duration Gap measure can be used to estimate the expected change in Market Value of Equity (MVE) for a given change in market interest rate. 9.8.4 The difference between duration of assets (DA) and liabilities (DL) is bank s net duration. If the net duration is positive (DA DL), a decrease in market interest rates will increase the market value of equity of the bank. When the duration gap is negative (DL DA), the MVE increases when the interest rate increa",
+    "document_type": "financial",
+    "section_number": 34,
+    "total_sections": 49,
+    "word_count": 168,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 33
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_34",
+    "title": "Liquidity Risk",
+    "content": "s positive (DA DL), a decrease in market interest rates will increase the market value of equity of the bank. When the duration gap is negative (DL DA), the MVE increases when the interest rate increases but decreases when the rate declines. Thus, the Duration Gap shows the impact of the movements in market interest rates on the MVE through influencing the market value of assets, liabilities and OBS. 9.8.5 The attraction of duration analysis is that it provides a comprehensive measure of IRR for the total portfolio. The duration analysis also recognises the time value of money. Duration measure is additive so that banks can match total assets and liabilities rather than matching individual accounts. However, Duration Gap analysis assumes parallel shifts in yield curve. For this reason, it fails to recognise basis risk. 9.9 Simulation 9.9.1 Many of the international banks are now using balance sheet simulation models to gauge the effect of market interest rate variations on reported ear",
+    "document_type": "financial",
+    "section_number": 35,
+    "total_sections": 49,
+    "word_count": 162,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 34
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_35",
+    "title": "Liquidity Risk",
+    "content": "fails to recognise basis risk. 9.9 Simulation 9.9.1 Many of the international banks are now using balance sheet simulation models to gauge the effect of market interest rate variations on reported earnings economic values over different time zones. Simulation technique attempts to overcome the limitations of Gap and Duration approaches by computer modelling the bank s interest rate sensitivity. Such modelling involves making assumptions about future path of interest rates, shape of yield curve, changes in business activity, pricing and hedging strategies, etc. The simulation involves detailed assessment of the potential effects of changes in interest rate on earnings and economic value. The simulation techniques involve detailed analysis of various components of on-and off-balance sheet positions. Simulations can also incorporate more varied and refined changes in the interest rate environment, ranging from changes in the slope and shape of the yield curve and interest rate scenario de",
+    "document_type": "financial",
+    "section_number": 36,
+    "total_sections": 49,
+    "word_count": 147,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 35
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_36",
+    "title": "Liquidity Risk",
+    "content": "sitions. Simulations can also incorporate more varied and refined changes in the interest rate environment, ranging from changes in the slope and shape of the yield curve and interest rate scenario derived from Monte Carlo simulations. 9.9.2 The output of simulation can take a variety of forms, depending on users need. Simulation can provide current and expected periodic gaps, duration gaps, balance sheet and income statements, performance measures, budget and financial reports. The simulation model provides an effective tool for understanding the risk exposure under variety of interest rate balance sheet scenarios. This technique also plays an integral-planning role in evaluating the effect of alternative business strategies on risk exposures. 9.9.3 The simulation can be carried out under static and dynamic environment. While the current on and off-balance sheet positions are evaluated under static environment, the dynamic simulation builds in more detailed assumptions about the futur",
+    "document_type": "financial",
+    "section_number": 37,
+    "total_sections": 49,
+    "word_count": 146,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 36
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_37",
+    "title": "Liquidity Risk",
+    "content": " static and dynamic environment. While the current on and off-balance sheet positions are evaluated under static environment, the dynamic simulation builds in more detailed assumptions about the future course of interest rates and the unexpected changes in bank s business activity. 9.9.4 The usefulness of the simulation technique depends on the structure of the model, validity of assumption, technology support and technical expertise of banks. 20 9.9.5 The application of various techniques depends to a large extent on the quality of data and the degree of automated system of operations. Thus, banks may start with the gap or duration gap or simulation techniques on the basis of availability of data, information technology and technical expertise. In any case, as suggested by RBI in the guidelines on ALM System, banks should start estimating the interest rate risk exposure with the help of Maturity Gap approach. Once banks are comfortable with the Gap model, they can progressively gradua",
+    "document_type": "financial",
+    "section_number": 38,
+    "total_sections": 49,
+    "word_count": 156,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 37
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_38",
+    "title": "Liquidity Risk",
+    "content": "elines on ALM System, banks should start estimating the interest rate risk exposure with the help of Maturity Gap approach. Once banks are comfortable with the Gap model, they can progressively graduate into the sophisticated approaches. 9.10 Funds Transfer Pricing 9.10.1 The Transfer Pricing mechanism being followed by many banks does not support good ALM Systems. Many international banks which have different products and operate in various geographic markets have been using internal Funds Transfer Pricing (FTP). FTP is an internal measurement designed to assess the financial impact of uses and sources of funds and can be used to evaluate the profitability. It can also be used to isolate returns for various risks assumed in the intermediation process. FTP also helps correctly identify the cost of opportunity value of funds. Although banks have adopted various FTP frameworks and techniques, Matched Funds Pricing (MFP) is the most efficient technique. Most of the international banks use",
+    "document_type": "financial",
+    "section_number": 39,
+    "total_sections": 49,
+    "word_count": 154,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 38
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_39",
+    "title": "Liquidity Risk",
+    "content": " cost of opportunity value of funds. Although banks have adopted various FTP frameworks and techniques, Matched Funds Pricing (MFP) is the most efficient technique. Most of the international banks use MFP. The FTP envisages assignment of specific assets and liabilities to various functional units (profit centres) lending, investment, deposit taking and funds management. Each unit attracts sources and uses of funds. The lending, investment and deposit taking profit centres sell their liabilities to and buys funds for financing their assets from the funds management profit centre at appropriate transfer prices. The transfer prices are fixed on the basis of a single curve (MIBOR or derived cash curve, etc) so that asset-liability transactions of identical attributes are assigned identical transfer prices. Transfer prices could, however, vary according to maturity, purpose, terms and other attributes. 9.10.2 The FTP provides for allocation of margin (franchise and credit spreads) to profit",
+    "document_type": "financial",
+    "section_number": 40,
+    "total_sections": 49,
+    "word_count": 147,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 39
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_40",
+    "title": "Liquidity Risk",
+    "content": "nsfer prices. Transfer prices could, however, vary according to maturity, purpose, terms and other attributes. 9.10.2 The FTP provides for allocation of margin (franchise and credit spreads) to profit centres on original transfer rates and any residual spread (mismatch spread) is credited to the funds management profit centre. This spread is the result of accumulated mismatches. The margins of various profit centres are: Deposit profit centre: Transfer Price (TP) on deposits - cost of deposits deposit insurance- overheads. Lending profit centre: Loan yields TP on deposits TP on loan financing cost of deposits deposit insurance - overheads loan loss provisions. Investment profit centre: Security yields TP on deposits TP on security financing cost of deposits deposit insurance - overheads provisions for depreciation in investments and loan loss. Funds Management profit centre: 21 TP on funds lent TP on funds borrowed Statutory Reserves cost overheads. For illustration, let us assume that",
+    "document_type": "financial",
+    "section_number": 41,
+    "total_sections": 49,
+    "word_count": 150,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 40
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_41",
+    "title": "Liquidity Risk",
+    "content": "ovisions for depreciation in investments and loan loss. Funds Management profit centre: 21 TP on funds lent TP on funds borrowed Statutory Reserves cost overheads. For illustration, let us assume that a bank s Deposit profit centre has raised a 3 month deposit 6.5% p.a. and that the alternative funding cost i.e. MIBOR for 3 months and one year 8% and 10.5% p.a., respectively. Let us also assume that the bank s Loan profit centre created a one year loan 13.5% p.a. The franchise (liability), credit and mismatch spreads of bank is as under: Profit Centres Total Deposit Funds Loan Interest Income 8.0 10.5 13.5 13.5 Interest Expenditure 6.5 8.0 10.5 6.5 Margin 1.5 2.5 3.0 7.0 Loan Loss Provision (expected) 1.0 1.0 Deposit Insurance 0.1 0.1 Reserve Cost (CRR SLR) 1.0 1.0 Overheads 0.6 0.5 0.6 1.7 NII 0.8 1.0 1.4 3.2 Under the FTP mechanism, the profit centres (other than funds management) are precluded from assuming any funding mismatches and thereby exposing them to market risk. The credit ",
+    "document_type": "financial",
+    "section_number": 42,
+    "total_sections": 49,
+    "word_count": 170,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 41
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_42",
+    "title": "Liquidity Risk",
+    "content": "7 NII 0.8 1.0 1.4 3.2 Under the FTP mechanism, the profit centres (other than funds management) are precluded from assuming any funding mismatches and thereby exposing them to market risk. The credit or counterparty and price risks are, however, managed by these profit centres. The entire market risks, i.e interest rate, liquidity and forex are assumed by the funds management profit centre. 9.10.3 The FTP allows lending and deposit raising profit centres determine their expenses and price their products competitively. Lending profit centre which knows the carrying cost of the loans needs to focus on to price only the spread necessary to compensate the perceived credit risk and operating expenses. Thus, FTP system could effectively be used as a way to centralise the bank s overall market risk at one place and would support an effective ALM modelling system. FTP also could be used to enhance corporate communication; greater line management control and solid base for rewarding line manage",
+    "document_type": "financial",
+    "section_number": 43,
+    "total_sections": 49,
+    "word_count": 160,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 42
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_43",
+    "title": "Liquidity Risk",
+    "content": "sk at one place and would support an effective ALM modelling system. FTP also could be used to enhance corporate communication; greater line management control and solid base for rewarding line management. 10. Foreign Exchange (Forex) Risk 10.1 The risk inherent in running open foreign exchange positions have been heightened in recent years by the pronounced volatility in forex rates, thereby adding a new dimension to the risk profile of banks balance sheets. 10.2 Forex risk is the risk that a bank may suffer losses as a result of adverse exchange rate movements during a period in which it has an open position, either spot or forward, or a combination of the two, in an individual foreign currency. The banks are also exposed to interest rate risk, which arises from the maturity mismatching of foreign currency positions. Even in cases where spot and forward positions in individual currencies are balanced, the maturity pattern of forward transactions may produce mismatches. As a result, b",
+    "document_type": "financial",
+    "section_number": 44,
+    "total_sections": 49,
+    "word_count": 163,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 43
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_44",
+    "title": "Liquidity Risk",
+    "content": "of foreign currency positions. Even in cases where spot and forward positions in individual currencies are balanced, the maturity pattern of forward transactions may produce mismatches. As a result, banks may suffer losses as a result of changes in premia discounts of the currencies concerned. 10.3 In the forex business, banks also face the risk of default of the counterparties or settlement risk. While such type of risk crystallisation does not cause principal loss, banks may have to 22 undertake fresh transactions in the cash spot market for replacing the failed transactions. Thus, banks may incur replacement cost, which depends upon the currency rate movements. Banks also face another risk called time-zone risk or Herstatt risk which arises out of time-lags in settlement of one currency in one centre and the settlement of another currency in another timezone. The forex transactions with counterparties from another country also trigger sovereign or country risk. 10.4 Forex Risk Manag",
+    "document_type": "financial",
+    "section_number": 45,
+    "total_sections": 49,
+    "word_count": 156,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 44
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_45",
+    "title": "Liquidity Risk",
+    "content": " in one centre and the settlement of another currency in another timezone. The forex transactions with counterparties from another country also trigger sovereign or country risk. 10.4 Forex Risk Management Measures 1. Set appropriate limits open positions and gaps. 2. Clear-cut and well-defined division of responsibility between front, middle and back offices. The top management should also adopt the Va R approach to measure the risk associated with exposures. Reserve Bank of India has recently introduced two statements viz. Maturity and Position (MAP) and Interest Rate Sensitivity (SIR) for measurement of forex risk exposures. Banks should use these statements for periodical monitoring of forex risk exposures. 11. Capital for Market Risk 11.1 The Basle Committee on Banking Supervision (BCBS) had issued comprehensive guidelines to provide an explicit capital cushion for the price risks to which banks are exposed, particularly those arising from their trading activities. The banks have ",
+    "document_type": "financial",
+    "section_number": 46,
+    "total_sections": 49,
+    "word_count": 148,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 45
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_46",
+    "title": "Liquidity Risk",
+    "content": "BS) had issued comprehensive guidelines to provide an explicit capital cushion for the price risks to which banks are exposed, particularly those arising from their trading activities. The banks have been given flexibility to use in-house models based on Va R for measuring market risk as an alternative to a standardised measurement framework suggested by Basle Committee. The internal models should, however, comply with quantitative and qualitative criteria prescribed by Basle Committee. 11.2 Reserve Bank of India has accepted the general framework suggested by the Basle Committee. RBI has also initiated various steps in moving towards prescribing capital for market risk. As an initial step, a risk weight of 2.5% has been prescribed for investments in Government and other approved securities, besides a risk weight each of 100% on the open position limits in forex and gold. RBI has also prescribed detailed operating guidelines for Asset Liability Management System in banks. As the abilit",
+    "document_type": "financial",
+    "section_number": 47,
+    "total_sections": 49,
+    "word_count": 154,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 46
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_47",
+    "title": "Liquidity Risk",
+    "content": "s, besides a risk weight each of 100% on the open position limits in forex and gold. RBI has also prescribed detailed operating guidelines for Asset Liability Management System in banks. As the ability of banks to identify and measure market risk improves, it would be necessary to assign explicit capital charge for market risk. In the meanwhile, banks are advised to study the Basle Committee s paper on Overview of the Amendment to the Capital Accord to Incorporate Market Risks January 1996 (copy enclosed). While the small banks operating predominantly in India could adopt the standardised methodology, large banks and those banks operating in international markets should develop expertise in evolving internal models for measurement of market risk. 11.3 The Basle Committee on Banking Supervision proposes to develop capital charge for interest rate risk in the banking book as well for banks where the interest rate risks are significantly above average ( outliers ). The Committee is now ex",
+    "document_type": "financial",
+    "section_number": 48,
+    "total_sections": 49,
+    "word_count": 160,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 47
+    }
+  },
+  {
+    "id": "financial_liquidity_risk_48",
+    "title": "Liquidity Risk",
+    "content": "sion proposes to develop capital charge for interest rate risk in the banking book as well for banks where the interest rate risks are significantly above average ( outliers ). The Committee is now exploring various methodologies for identifying outliers and how best to apply and calibrate a capital charge for interest rate risk for banks. Once the Committee finalises the modalities, it may be necessary, at least for banks operating in the international markets to comply with the explicit capital charge requirements for interest rate risk in the banking book. 23 12.",
+    "document_type": "financial",
+    "section_number": 49,
+    "total_sections": 49,
+    "word_count": 93,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Liquidity Risk",
+      "chunk_index": 48
+    }
+  },
+  {
+    "id": "financial_operational_risk_0",
+    "title": "Operational Risk",
+    "content": "12.1 Managing operational risk is becoming an important feature of sound risk management practices in modern financial markets in the wake of phenomenal increase in the volume of transactions, high degree of structural changes and complex support systems. The most important type of operational risk involves breakdowns in internal controls and corporate governance. Such breakdowns can lead to financial loss through error, fraud, or failure to perform in a timely manner or cause the interest of the bank to be compromised. 12.2 Generally, operational risk is defined as any risk, which is not categoried as market or credit risk, or the risk of loss arising from various types of human or technical error. It is also synonymous with settlement or payments risk and business interruption, administrative and legal risks. Operational risk has some form of link between credit and market risks. An operational problem with a business transaction could trigger a credit or market risk. 12.3 Measuremen",
+    "document_type": "financial",
+    "section_number": 1,
+    "total_sections": 12,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "financial_operational_risk_1",
+    "title": "Operational Risk",
+    "content": "ative and legal risks. Operational risk has some form of link between credit and market risks. An operational problem with a business transaction could trigger a credit or market risk. 12.3 Measurement There is no uniformity of approach in measurement of operational risk in the banking system. Besides, the existing methods are relatively simple and experimental, although some of the international banks have made considerable progress in developing more advanced techniques for allocating capital with regard to operational risk. Measuring operational risk requires both estimating the probability of an operational loss event and the potential size of the loss. It relies on risk factor that provides some indication of the likelihood of an operational loss event occurring. The process of operational risk assessment needs to address the likelihood (or frequency) of a particular operational risk occurring, the magnitude (or severity) of the effect of the operational risk on business objective",
+    "document_type": "financial",
+    "section_number": 2,
+    "total_sections": 12,
+    "word_count": 150,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "financial_operational_risk_2",
+    "title": "Operational Risk",
+    "content": "ional risk assessment needs to address the likelihood (or frequency) of a particular operational risk occurring, the magnitude (or severity) of the effect of the operational risk on business objectives and the options available to manage and initiate actions to reduce mitigate operational risk. The set of risk factors that measure risk in each business unit such as audit ratings, operational data such as volume, turnover and complexity and data on quality of operations such as error rate or measure of business risks such as revenue volatility, could be related to historical loss experience. Banks can also use different analytical or judgmental techniques to arrive at an overall operational risk level. Some of the international banks have already developed operational risk rating matrix, similar to bond credit rating. The operational risk assessment should be bank-wide basis and it should be reviewed at regular intervals. Banks, over a period, should develop internal systems to evaluate",
+    "document_type": "financial",
+    "section_number": 3,
+    "total_sections": 12,
+    "word_count": 154,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "financial_operational_risk_3",
+    "title": "Operational Risk",
+    "content": "milar to bond credit rating. The operational risk assessment should be bank-wide basis and it should be reviewed at regular intervals. Banks, over a period, should develop internal systems to evaluate the risk profile and assign economic capital within the RAROC framework. Indian banks have so far not evolved any scientific methods for quantifying operational risk. In the absence any sophisticated models, banks could evolve simple benchmark based on an aggregate measure of business activity such as gross revenue, fee income, operating costs, managed assets or total assets adjusted for off-balance sheet exposures or a combination of these variables. 12.4 Risk Monitoring The operational risk monitoring system focuses, inter alia, on operational performance measures such as volume, turnover, settlement facts, delays and errors. It could also be incumbent to 24 monitor operational loss directly with an analysis of each occurrence and description of the nature and causes of the loss. 12.5 C",
+    "document_type": "financial",
+    "section_number": 4,
+    "total_sections": 12,
+    "word_count": 152,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "financial_operational_risk_4",
+    "title": "Operational Risk",
+    "content": "settlement facts, delays and errors. It could also be incumbent to 24 monitor operational loss directly with an analysis of each occurrence and description of the nature and causes of the loss. 12.5 Control of Operational Risk Internal controls and the internal audit are used as the primary means to mitigate operational risk. Banks could also explore setting up operational risk limits, based on the measures of operational risk. The contingent processing capabilities could also be used as a means to limit the adverse impacts of operational risk. Insurance is also an important mitigator of some forms of operational risk. Risk education for familiarising the complex operations at all levels of staff can also reduce operational risk. 12.6 Policies and Procedures Banks should have well defined policies on operational risk management. The policies and procedures should be based on common elements across business lines or risks. The policy should address product review process, involving busi",
+    "document_type": "financial",
+    "section_number": 5,
+    "total_sections": 12,
+    "word_count": 155,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "financial_operational_risk_5",
+    "title": "Operational Risk",
+    "content": "policies on operational risk management. The policies and procedures should be based on common elements across business lines or risks. The policy should address product review process, involving business, risk management and internal control functions. 12.7 Internal Control 12.7.1 One of the major tools for managing operational risk is the well-established internal control system, which includes segregation of duties, clear management reporting lines and adequate operating procedures. Most of the operational risk events are associated with weak links in internal control systems or laxity in complying with the existing internal control procedures. 12.7.2 The ideal method of identifying problem spots is the technique of self-assessment of internal control environment. The self-assessment could be used to evaluate operational risk alongwith internal external audit reports ratings or RBI inspection findings. Banks should endeavour for detection of operational problem spots rather than the",
+    "document_type": "financial",
+    "section_number": 6,
+    "total_sections": 12,
+    "word_count": 140,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "financial_operational_risk_6",
+    "title": "Operational Risk",
+    "content": "uld be used to evaluate operational risk alongwith internal external audit reports ratings or RBI inspection findings. Banks should endeavour for detection of operational problem spots rather than their being pointed out by supervisors internal or external auditors. 12.7.3 Alongwith activating internal audit systems, the Audit Committees should play greater role to ensure independent financial and internal control functions. 12.7.4 The Basle Committee on Banking Supervision proposes to develop an explicit capital charge for operational risk. 13. Risk Aggregation and Capital Allocation 13.1 Most of internally active banks have developed internal processes and techniques to assess and evaluate their own capital needs in the light of their risk profiles and business plans. Such banks take into account both qualitative and quantitative factors to assess economic capital. The Basle Committee now recognises that capital adequacy in relation to economic risk is a necessary condition for the l",
+    "document_type": "financial",
+    "section_number": 7,
+    "total_sections": 12,
+    "word_count": 146,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 6
+    }
+  },
+  {
+    "id": "financial_operational_risk_7",
+    "title": "Operational Risk",
+    "content": "o account both qualitative and quantitative factors to assess economic capital. The Basle Committee now recognises that capital adequacy in relation to economic risk is a necessary condition for the long-term soundness of banks. Thus, in addition to complying with the established minimum regulatory capital requirements, banks should critically assess their internal capital adequacy and future capital needs on the basis of risks assumed by individual 25 lines of business, product, etc. As a part of the process for evaluating internal capital adequacy, a bank should be able to identify and evaluate its risks across all its activities to determine whether its capital levels are appropriate. 13.2 Thus, at the bank s Head Office level, aggregate risk exposure should receive increased scrutiny. To do so, however, it requires the summation of the different types of risks. Banks, across the world, use different ways to estimate the aggregate risk exposures. The most commonly used approach is t",
+    "document_type": "financial",
+    "section_number": 8,
+    "total_sections": 12,
+    "word_count": 156,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 7
+    }
+  },
+  {
+    "id": "financial_operational_risk_8",
+    "title": "Operational Risk",
+    "content": "To do so, however, it requires the summation of the different types of risks. Banks, across the world, use different ways to estimate the aggregate risk exposures. The most commonly used approach is the Risk Adjusted Return on Capital (RAROC). The RAROC is designed to allow all the business streams of a financial institution to be evaluated on an equal footing. Each type of risks is measured to determine both the expected and unexpected losses using Va R or worst-case type analytical model. Key to RAROC is the matching of revenues, costs and risks on transaction or portfolio basis over a defined time period. This begins with a clear differentiation between expected and unexpected losses. Expected losses are covered by reserves and provisions and unexpected losses require capital allocation which is determined on the principles of confidence levels, time horizon, diversification and correlation. In this approach, risk is measured in terms of variability of income. Under this framework, ",
+    "document_type": "financial",
+    "section_number": 9,
+    "total_sections": 12,
+    "word_count": 158,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 8
+    }
+  },
+  {
+    "id": "financial_operational_risk_9",
+    "title": "Operational Risk",
+    "content": " which is determined on the principles of confidence levels, time horizon, diversification and correlation. In this approach, risk is measured in terms of variability of income. Under this framework, the frequency distribution of return, wherever possible is estimated and the Standard Deviation (SD) of this distribution is also estimated. Capital is thereafter allocated to activities as a function of this risk or volatility measure. Then, the risky position is required to carry an expected rate of return on allocated capital, which compensates the bank for the associated incremental risk. By dimensioning all risks in terms of loss distribution and allocating capital by the volatility of the new activity, risk is aggregated and priced. 13.3 The second approach is similar to the RAROC, but depends less on capital allocation and more on cash flows or variability in earnings. This is referred to as Ea R, when employed to analyse interest rate risk. Under this analytical framework also freq",
+    "document_type": "financial",
+    "section_number": 10,
+    "total_sections": 12,
+    "word_count": 157,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 9
+    }
+  },
+  {
+    "id": "financial_operational_risk_10",
+    "title": "Operational Risk",
+    "content": "epends less on capital allocation and more on cash flows or variability in earnings. This is referred to as Ea R, when employed to analyse interest rate risk. Under this analytical framework also frequency distribution of returns for any one type of risk can be estimated from historical data. Extreme outcome can be estimated from the tail of the distribution. Either a worst case scenario could be used or Standard Deviation 1 2 2.69 could also be considered. Accordingly, each bank can restrict the maximum potential loss to certain percentage of past current income or market value. Thereafter, rather than moving from volatility of value through capital, this approach goes directly to current earnings implications from a risky position. This approach, however, is based on cash flows and ignores the value changes in assets and liabilities due to changes in market interest rates. It also depends upon a subjectively specified range of the risky environments to drive the worst case scenario. ",
+    "document_type": "financial",
+    "section_number": 11,
+    "total_sections": 12,
+    "word_count": 161,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 10
+    }
+  },
+  {
+    "id": "financial_operational_risk_11",
+    "title": "Operational Risk",
+    "content": "es the value changes in assets and liabilities due to changes in market interest rates. It also depends upon a subjectively specified range of the risky environments to drive the worst case scenario. 13.4 Given the level of extant risk management practices, most of Indian banks may not be in a position to adopt RAROC framework and allocate capital to various businesses units on the basis of risk. However, at least, banks operating in international markets should develop, by March 31, 2001, suitable methodologies for estimating economic capital.",
+    "document_type": "financial",
+    "section_number": 12,
+    "total_sections": 12,
+    "word_count": 88,
+    "metadata": {
+      "source": "RBI Financial Risk Guidelines",
+      "section": "Operational Risk",
+      "chunk_index": 11
+    }
+  }
+]

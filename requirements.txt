@@ -1,0 +1,31 @@
+# RBI Chatbot Streamlit Application Requirements
+
+# Core Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Machine Learning & NLP
+sentence-transformers>=2.2.2
+transformers>=4.21.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# LangChain Framework
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-ollama>=0.1.0
+
+# Optional: OpenAI Integration
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pathlib2>=2.3.0
+
+# Additional dependencies that might be needed
+typing-extensions>=4.5.0
+pydantic>=2.0.0
